@@ -13,8 +13,8 @@ test('test to see if we get name from the getName method', () => {
 
 test('test to see if we get Id from the getId method', () => {
     expect(employee.getId()).toBe('2121');
-})
+});
 
 test('test to see if we get email from the getEmail method', () => {
-    expect(employee.getEmail()).toBe('john@email.com')
+    expect(employee.getEmail()).toBe('john@email.com');
 });
