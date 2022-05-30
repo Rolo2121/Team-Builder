@@ -12,4 +12,6 @@ Through the command line the user will be able to enter employee data with all p
 
 Once an employee is welcomed to the team, user is prompted questions pertaining to that employee such as: email, employee Id, GitHub page, office number, or school name.
 
+[
+](https://drive.google.com/file/d/1AaThejfVjtzXfT63Qf5jfQOkM4UgQDRY/view)
 ## Made with love by Jacob Bauer
